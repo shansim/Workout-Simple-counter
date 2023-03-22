@@ -1,14 +1,14 @@
 body {
     background-image: url("Goku.jpg");
     background-size: cover;
-    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family:'Helvetica Neue', sans-serif;
     text-align: center;
     margin: auto;
     height: 100vh;
 }
 
 .container {
-    background: white;
+    background: orange;
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
